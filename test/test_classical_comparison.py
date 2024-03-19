@@ -1,7 +1,7 @@
 import unittest
-from src.quantum_comparison import less_than_k
+from src.classical_comparison import less_than_k
 
-class TestQuantumComparison(unittest.TestCase):
+class TestClassicalComparison(unittest.TestCase):
 
     def test_less_than_k(self):
         self.assertEqual(less_than_k(5, [1, 2, 6, 4, 8]), [1, 2, 4])
