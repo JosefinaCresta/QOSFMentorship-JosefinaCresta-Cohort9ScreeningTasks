@@ -45,6 +45,6 @@ Motivated by curiosity and a desire to explore further, I also completed Task 1:
 
 ---
 # Contact me:
-[Email](josefinacresta@gmail.com)
-[Linkedin](www.linkedin.com/in/josefina-cresta)
+josefinacresta@gmail.com |
+[Linkedin](www.linkedin.com/in/josefina-cresta) |
 [My CV](https://josefinacresta.my.canva.site/cvjosefinacresta)
