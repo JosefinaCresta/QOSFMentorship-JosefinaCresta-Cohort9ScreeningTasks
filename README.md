@@ -42,3 +42,9 @@ In conclusion, participating in this task has been both challenging and rewardin
 **Additional Task: Task 1 - Less Than K**
 
 Motivated by curiosity and a desire to explore further, I also completed Task 1: Less Than K, which involved finding elements in a list that are less than a given number using quantum circuits. This task was particularly satisfying as it blended quantum computing concepts with algorithmic problem-solving, reinforcing my interest and knowledge in the field.
+
+---
+# Contact me:
+[Email](josefinacresta@gmail.com)
+[Linkedin](www.linkedin.com/in/josefina-cresta)
+[My CV](https://josefinacresta.my.canva.site/cvjosefinacresta)
