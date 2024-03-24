@@ -1,12 +1,12 @@
 # Quantum Computing Mentorship Program Screening Task Submission
----
+
 
 Hello! I'm Josefina, nice to meet you!
 
 Thank you very much for considering my application for the Quantum Computing Mentorship program. I appreciate the opportunity to participate in the screening tasks designed to evaluate the essential skills for success in this exciting field. The screening tasks presented an engaging challenge that allowed me to delve into quantum computing (QC) concepts and apply my coding and research skills.
 
 ## *Task Selection and Completion*
----
+
 
 After reviewing the options, I decided to undertake **Task 3: Zero-Noise Extrapolation (ZNE)**, given its relevance and my keen interest in quantum error mitigation techniques. This choice provided a valuable learning experience, deepening my understanding of quantum noise and its impact on quantum algorithms.
 
@@ -38,8 +38,6 @@ In conclusion, participating in this task has been both challenging and rewardin
 
 
 ---
-
-.
 
 **Additional Task: Task 1 - Less Than K**
 
